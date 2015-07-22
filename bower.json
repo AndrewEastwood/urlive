@@ -10,14 +10,7 @@
     "jquery.urlive.js",
     "jquery.urlive.css"
   ],
-  "ignore": [
-    "**/.*",
-    "bower_components",
-    "bower.json",
-    "urlive.jquery.json",
-    "LICENSE.txt",
-    "README.md"
-  ],
+  "ignore": [],
   "dependencies": {
     "jquery": "~1.7.0"
   }
